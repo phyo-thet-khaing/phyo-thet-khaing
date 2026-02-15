@@ -1,6 +1,3 @@
-Nice 😎 You want to write a clean GitHub profile README for a **Full Stack Developer**.
-Here’s a professional and modern version you can use:
-
 ---
 
 ## Hi there 👋 I'm Phyo Thet Khaing
