@@ -1,116 +1,146 @@
 <div align="center">
 
-# Hi there 👋 I'm Phyo Thet Khaing
+# 👋 Hi, I'm Phyo Thet Khaing
 
-### 💻 Full Stack Developer | 🎓 IT Student | 🚀 Backend & DevOps Enthusiast
+### Aspiring Junior Software Developer
 
-</div>
+🚀 Passionate about Backend Development, Cloud-Native Applications, and DevOps
 
----
-
-### 🚀 At a Glance
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <b>🔭 Currently Working On</b><br>
-        • Solo full-stack student projects<br>
-        • Backend systems using <b>Spring Boot</b><br>
-        • Learning <b>PHP & Laravel</b><br>
-        • Practicing Docker & Jenkins (CI/CD)
-      </td>
-      <td width="50%" align="center">
-        <b>🌱 Currently Improving</b><br>
-        • Backend architecture & clean code<br>
-        • API design best practices<br>
-        • DevOps workflow integration<br>
-        • Database optimization
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | `React.js` `Next.js` `Tailwind CSS` `JavaScript` |
-| **Backend** | `Spring Boot` `Java` \| 🌱 *Learning:* `PHP` `Laravel` |
-| **DevOps** | `Docker` `Jenkins` |
-| **Database** | `MySQL` `MongoDB` |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;React+%7C+Next.js+Frontend+Developer;Learning+Microservices+and+Cloud+Native+Architecture;Docker+%7C+Kubernetes+%7C+CI%2FCD+Enthusiast" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 💻 What I Can Do
+## 🚀 About Me
+
+* 🎓 IT Student & Self-Taught Developer
+* 💻 Building Full Stack Applications
+* 🌱 Currently learning **Microservices, Kubernetes, CI/CD**
+* 🔥 Working on **Cloud Native Inventory Management System**
+* 🎯 Goal: Become a Professional Backend Engineer
+* ⚡ Love solving real-world problems through software
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        🌐 <b>Full-Stack Apps</b><br>
-        Connect modern frontends (React.js, Next.js) with powerful backends (Spring Boot, Java).
-      </td>
-      <td width="50%">
-        🎨 <b>Interface Design</b><br>
-        Craft clean, responsive, mobile-first layouts using Tailwind CSS.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        🗄️ <b>Database Integration</b><br>
-        Model and manage both relational (MySQL) and non-relational (MongoDB) data.
-      </td>
-      <td>
-        🚀 <b>Automation & DevOps</b><br>
-        Streamline builds and deployments with Docker containers and Jenkins pipelines.
-      </td>
-    </tr>
-  </table>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=phyo-thet-khaing&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyo-thet-khaing&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 🔥 GitHub Streak
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="left">
-        🛒 <b>E-Commerce Mini Project (React)</b><br>
-        Developed a responsive shopping application with product listing, cart functionality, and state management using modern React concepts.
-      </td>
-      <td width="50%" align="left">
-        💻 <b>Inventory Management System</b><br>
-        Built using <b>Spring Boot & Thymeleaf</b> for managing phones and computers with full CRUD operations and MVC architecture.
-      </td>
-    </tr>
-  </table>
+
+<img src="https://streak-stats.demolab.com?user=phyo-thet-khaing&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-### 🧠 Work Style & Fun Facts
+## 🚀 Featured Project
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        🔥 Build solo projects &nbsp;&bull;&nbsp; 📚 Learn by building &nbsp;&bull;&nbsp; 🛠️ Focus on system structure &nbsp;&bull;&nbsp; 💪 Hit the gym &nbsp;&bull;&nbsp; 🎮 Enjoy gaming
-      </td>
-    </tr>
-  </table>
-</div>
+### ☁️ Cloud Native Inventory Management System
+
+A cloud-native inventory management platform built using:
+
+* Java 21
+* Spring Boot
+* Spring Cloud
+* Eureka Discovery Server
+* API Gateway
+* MySQL & PostgreSQL
+* Docker
+* Kubernetes
+* Jenkins CI/CD
+
+#### Features
+
+✅ Authentication & Authorization
+
+✅ User & Role Management
+
+✅ Product Management
+
+✅ Category Management
+
+✅ Containerized Microservices
+
+✅ Automated CI/CD Pipeline
+
+---
+
+## 🎯 Current Focus
+
+```text
+Backend Development      ████████████░░ 80%
+Spring Boot              █████████████░ 85%
+Microservices            ██████████░░░░ 70%
+Docker                   ███████████░░░ 75%
+Kubernetes               ████████░░░░░░ 60%
+CI/CD                    ███████░░░░░░░ 55%
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/phyo-thet-khaing">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
+
+### 💡 "Keep Learning. Keep Building. Keep Improving."
+
 </div>
