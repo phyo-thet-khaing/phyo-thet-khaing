@@ -1,89 +1,116 @@
-## Hi there 👋 I'm Phyo Thet Khaing
+<div align="center">
 
-💻 **Full Stack Developer**
-🎓 IT Student
-🚀 Backend & DevOps Enthusiast
+# Hi there 👋 I'm Phyo Thet Khaing
 
----
+### 💻 Full Stack Developer | 🎓 IT Student | 🚀 Backend & DevOps Enthusiast
 
-### 🔭 Currently Working On
-
-* Solo full-stack student projects
-* Backend systems using **Spring Boot**
-* Learning **PHP & Laravel**
-* Practicing Docker & Jenkins (CI/CD)
-
-### 🌱 Currently Improving
-
-* Backend architecture & clean code
-* API design best practices
-* DevOps workflow integration
-* Database optimization
-
-## 🛠️ Tech Stack
-
-**Frontend:** `React.js` `Next.js` `Tailwind CSS` `JavaScript`  
-**Backend:** `Spring Boot` `Java` | *Learning:* `PHP` `Laravel`  
-**DevOps:** `Docker` `Jenkins`  
-**Database:** `MySQL` `MongoDB`  
+</div>
 
 ---
 
-## 💻 What I Can Do
+### 🚀 At a Glance
 
-- 🌐 **Build Full-Stack Applications:** Connect modern frontends (**React.js**, **Next.js**) with powerful backends (**Spring Boot**, **Java**).
-- 🎨 **Style & Interface Design:** Craft clean, responsive, mobile-first layouts using **Tailwind CSS**.
-- 🗄️ **Database Integration:** Model and manage both relational (**MySQL**) and non-relational (**MongoDB**) data.
-- 🚀 **Automation & Containerization:** Streamline builds and deployments with **Docker** containers and **Jenkins** pipelines.
-- 📚 **Expand Stack Capabilities:** Actively building new projects using **PHP** and **Laravel**.
-
----
-
-## 🚀 What I Can Do
-
-### 🛒 React Shopping Mini Project
-
-* Built a mini e-commerce application using **React**
-* Product listing & dynamic UI rendering
-* Cart functionality
-* Component-based architecture
-* State management handling
-
-### 💻 Phone & Computer Management Mini Project
-
-* Built using **Spring Boot & Thymeleaf**
-* CRUD operations (Create, Read, Update, Delete)
-* MVC architecture implementation
-* Database integration with MySQL
-* Server-side rendering using Thymeleaf
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <b>🔭 Currently Working On</b><br>
+        • Solo full-stack student projects<br>
+        • Backend systems using <b>Spring Boot</b><br>
+        • Learning <b>PHP & Laravel</b><br>
+        • Practicing Docker & Jenkins (CI/CD)
+      </td>
+      <td width="50%" align="center">
+        <b>🌱 Currently Improving</b><br>
+        • Backend architecture & clean code<br>
+        • API design best practices<br>
+        • DevOps workflow integration<br>
+        • Database optimization
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🚀 Projects
+### 🛠️ Tech Stack
 
-### 🛒 E-Commerce Mini Project (React)
+<div align="center">
 
-Developed a responsive shopping application with product management and cart functionality using modern React concepts.
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `React.js` `Next.js` `Tailwind CSS` `JavaScript` |
+| **Backend** | `Spring Boot` `Java` \| 🌱 *Learning:* `PHP` `Laravel` |
+| **DevOps** | `Docker` `Jenkins` |
+| **Database** | `MySQL` `MongoDB` |
 
-### 💻 Inventory Management System (Spring Boot + Thymeleaf)
-
-Built a backend-driven web application for managing phones and computers, implementing full CRUD operations and MVC architecture.
-
----
-
-### 🧠 Work Style
-
-* 🔥 Build projects independently
-* 📚 Learn by building real applications
-* 🛠 Focus on backend logic & system structure
-* 🚀 Continuous self-improvement
+</div>
 
 ---
 
-### ⚡ Fun Fact
+### 💻 What I Can Do
 
-I build projects solo, hit the gym 💪, and enjoy gaming 🎮
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        🌐 <b>Full-Stack Apps</b><br>
+        Connect modern frontends (React.js, Next.js) with powerful backends (Spring Boot, Java).
+      </td>
+      <td width="50%">
+        🎨 <b>Interface Design</b><br>
+        Craft clean, responsive, mobile-first layouts using Tailwind CSS.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        🗄️ <b>Database Integration</b><br>
+        Model and manage both relational (MySQL) and non-relational (MongoDB) data.
+      </td>
+      <td>
+        🚀 <b>Automation & DevOps</b><br>
+        Streamline builds and deployments with Docker containers and Jenkins pipelines.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
- 👀
+### 🚀 Featured Projects
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="left">
+        🛒 <b>E-Commerce Mini Project (React)</b><br>
+        Developed a responsive shopping application with product listing, cart functionality, and state management using modern React concepts.
+      </td>
+      <td width="50%" align="left">
+        💻 <b>Inventory Management System</b><br>
+        Built using <b>Spring Boot & Thymeleaf</b> for managing phones and computers with full CRUD operations and MVC architecture.
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🧠 Work Style & Fun Facts
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        🔥 Build solo projects &nbsp;&bull;&nbsp; 📚 Learn by building &nbsp;&bull;&nbsp; 🛠️ Focus on system structure &nbsp;&bull;&nbsp; 💪 Hit the gym &nbsp;&bull;&nbsp; 🎮 Enjoy gaming
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
+</div>
