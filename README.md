@@ -73,35 +73,37 @@ My main focus is **backend development with Java and Spring Boot**, while also d
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=phyo-thet-khaing&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
+<img src="https://github-readme-stats.vercel.app/api?username=phyo-thet-khaing&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyo-thet-khaing&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyo-thet-khaing&layout=compact&theme=github_dark&hide_border=true" width="40%" />
 
 </div>
 
 ---
 
-# 🔥 Coding Activity
+## 🔥 Coding Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=phyo-thet-khaing&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=phyo-thet-khaing&theme=github-dark-blue&hide_border=true" width="70%" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phyo-thet-khaing&theme=github_dark" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phyo-thet-khaing&theme=github-compact&hide_border=true" width="95%" />
 
 </div>
+
+
 
 
 ---
