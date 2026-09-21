@@ -20,35 +20,22 @@
 * DevOps workflow integration
 * Database optimization
 
-### 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
+**Frontend:** `React.js` `Next.js` `Tailwind CSS` `JavaScript`  
+**Backend:** `Spring Boot` `Java` | *Learning:* `PHP` `Laravel`  
+**DevOps:** `Docker` `Jenkins`  
+**Database:** `MySQL` `MongoDB`  
 
-* React.js
-* Next.js
-* Tailwind CSS
-* JavaScript
+---
 
-**Backend**
+## 💻 What I Can Do
 
-* Spring Boot
-* Java
-* PHP (Learning)
-* Laravel (Learning)
-
-**DevOps**
-
-* Docker
-* Jenkins
-
-**Database**
-
-* MySQL
-* MongoDB
-
-  Perfect 😎 Let’s write your **“What I Can Do”** section in a clean and professional way for your GitHub profile.
-
-Here’s a polished version:
+- 🌐 **Build Full-Stack Applications:** Connect modern frontends (**React.js**, **Next.js**) with powerful backends (**Spring Boot**, **Java**).
+- 🎨 **Style & Interface Design:** Craft clean, responsive, mobile-first layouts using **Tailwind CSS**.
+- 🗄️ **Database Integration:** Model and manage both relational (**MySQL**) and non-relational (**MongoDB**) data.
+- 🚀 **Automation & Containerization:** Streamline builds and deployments with **Docker** containers and **Jenkins** pipelines.
+- 📚 **Expand Stack Capabilities:** Actively building new projects using **PHP** and **Laravel**.
 
 ---
 
